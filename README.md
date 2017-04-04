@@ -2,7 +2,7 @@
 Postit website - CPB Bus Academy flow 3 - PHP, mySQL, Sass
 
 
-Mattia Martini Julien Ringdahl
+Mattia Martini Julien Ringdahl (cph-jr182@cphbusiness.dk)
 
 School project for the 2nd semester Multimedia Design education. 
 

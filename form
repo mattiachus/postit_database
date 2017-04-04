@@ -1,0 +1,15 @@
+<form>
+
+ Title:<br>
+  <input type="text" name="Title"><br>
+
+ Date:<br>
+  <input type="text" name="Date"><br>
+
+ Subject:<br>
+  <input type="text" name="Subject"><br>
+ 
+ Post:<br>
+  <textarea rows="6" cols="30" name="Post"><br>
+
+</form>
